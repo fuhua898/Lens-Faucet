@@ -5,7 +5,7 @@ import time
 import random
 import string
 
-# 平台注册地址 https://www.nocaptcha.io/register?c=4JbN0u 获取令牌
+# 平台注册地址 https://goo.su/0np0os1 获取令牌
 USER_TOKEN = ""
 # cf和这个平台都支持 ipv6代理
 difficulty = "hard"
@@ -68,7 +68,7 @@ def check_proxy_ip(proxy_url):
 def get_new_proxy():
     """获取新的代理配置"""
     # 代理配置参数
-    # https://app.nstproxy.com/register?i=IY4pZy 注册创建ipv6频道
+    # https://goo.su/V64GMH 注册创建ipv6频道
     host = ""
     port = ""
     channel_id = "" #频道id
